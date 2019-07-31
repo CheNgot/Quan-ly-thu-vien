@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PhieuPhats>
+  <PhieuPhat>
+    <MaPhieuPhat>PP001</MaPhieuPhat>
+    <MaDocGia>DG001</MaDocGia>
+    <HoTenDocGia>HGCThanh</HoTenDocGia>
+    <TienNo>50000</TienNo>
+    <TienThu>30000</TienThu>
+    <ConLai>20000</ConLai>
+    <NgayGhiNhan>05/05/2018</NgayGhiNhan>
+    <NguoiTiepNhan>Hoàng Long</NguoiTiepNhan>
+  </PhieuPhat>
+</PhieuPhats>

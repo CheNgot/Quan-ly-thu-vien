@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Accounts>
+  <Account>
+    <username>admin</username>
+    <password>admin</password>
+    <typeAccount>Admin</typeAccount>
+
+    <maNhanVien>1</maNhanVien>
+  </Account>
+  <Account>
+    <username>a</username>
+    <password>s</password>
+    <typeAccount>Thủ Qũy</typeAccount>
+    <maNhanVien>3</maNhanVien>
+  </Account>
+  <Account>
+    <username>Thai12</username>
+    <password>123</password>
+    <typeAccount>Admin</typeAccount>
+    <maNhanVien>NV005</maNhanVien>
+  </Account>
+  <Account>
+    <username>a</username>
+    <password>d</password>
+    <typeAccount>Thủ Thư</typeAccount>
+    <maNhanVien>NV004</maNhanVien>
+  </Account>
+</Accounts>

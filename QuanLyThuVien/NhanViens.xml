@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NhanViens>
+  <NhanVien>
+    <MaNhanVien>NV001</MaNhanVien>
+    <HoTenNhanVien>Ngọc Thành</HoTenNhanVien>
+    <DiaChi>Quận 4</DiaChi>
+    <DienThoai>2315351</DienThoai>
+    <NgaySinh>6/4/1995</NgaySinh>
+    <BangCap>Tú Tài</BangCap>
+    <BoPhan>Admin</BoPhan>
+    <ChucVu>Nhân Viên</ChucVu>
+  </NhanVien>
+  <NhanVien>
+    <MaNhanVien>NV005</MaNhanVien>
+    <HoTenNhanVien>Hoàng Long</HoTenNhanVien>
+    <DiaChi>Tân Bình</DiaChi>
+    <DienThoai>2135431</DienThoai>
+    <NgaySinh>1/4/1995</NgaySinh>
+    <BangCap>Tú Tài</BangCap>
+    <BoPhan>Thủ Quỹ</BoPhan>
+    <ChucVu>Nhân Viên</ChucVu>
+  </NhanVien>
+  <NhanVien>
+    <MaNhanVien>NV003</MaNhanVien>
+    <HoTenNhanVien>Tùng</HoTenNhanVien>
+    <DiaChi>Quận 4</DiaChi>
+    <DienThoai>132156</DienThoai>
+    <NgaySinh>2/4/1975</NgaySinh>
+    <BangCap>Tú Tài</BangCap>
+    <BoPhan>Thủ Thư</BoPhan>
+    <ChucVu>Nhân Viên</ChucVu>
+  </NhanVien>
+  <NhanVien>
+    <MaNhanVien>NV004</MaNhanVien>
+    <HoTenNhanVien>Lan</HoTenNhanVien>
+    <DiaChi>Quận 96</DiaChi>
+    <DienThoai>2315351</DienThoai>
+    <NgaySinh>6/4/1995</NgaySinh>
+    <BangCap>Tú Tài</BangCap>
+    <BoPhan>Thủ Kho</BoPhan>
+    <ChucVu>Nhân Viên</ChucVu>
+  </NhanVien>
+</NhanViens>

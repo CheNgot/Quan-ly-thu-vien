@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NhanTraSachs>
+  <NhanTraSach>
+    <MaSach>MS001</MaSach>
+    <MaDocGia>DG001</MaDocGia>
+    <HoTen>hgcthanh</HoTen>
+    <NgayMuon>01/06/2019</NgayMuon>
+    <NgayTra>01/10/2019</NgayTra>
+    <SoNgayMuon>2</SoNgayMuon>
+    <TienPhat>2000</TienPhat>
+    <TienPhatKyNay>100</TienPhatKyNay>
+    <TienNo>100</TienNo>
+    <TongNo>2200</TongNo>
+  </NhanTraSach>
+  <NhanTraSach>
+    <MaSach>MS003</MaSach>
+    <MaDocGia>DG003</MaDocGia>
+    <HoTen>Thành Nga</HoTen>
+    <NgayMuon>01/05/2019</NgayMuon>
+    <NgayTra>01/10/2019</NgayTra>
+    <SoNgayMuon>2</SoNgayMuon>
+    <TienPhat>3000</TienPhat>
+    <TienPhatKyNay>22</TienPhatKyNay>
+    <TienNo>222</TienNo>
+    <TongNo>3244</TongNo>
+  </NhanTraSach>
+</NhanTraSachs>

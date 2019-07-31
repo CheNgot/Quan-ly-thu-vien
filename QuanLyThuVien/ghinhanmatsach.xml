@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GhiNhanMatSachs>
+  <GhiNhanMatSach>
+    <MaSach>MS002</MaSach>
+    <TenSach>gone</TenSach>
+    <HoTen>aa</HoTen>
+    <NgayGhiNhan>01/06/2019</NgayGhiNhan>
+    <TienPhat>2</TienPhat>
+    <NguoiTiepNhan>Tùng</NguoiTiepNhan>
+  </GhiNhanMatSach>
+  <GhiNhanMatSach>
+    <MaSach>MS001</MaSach>
+    <TenSach>vat ly co truyen</TenSach>
+    <HoTen>HgcThanh</HoTen>
+    <NgayGhiNhan>05/01/2019</NgayGhiNhan>
+    <TienPhat>1</TienPhat>
+    <NguoiTiepNhan>Thu</NguoiTiepNhan>
+  </GhiNhanMatSach>
+</GhiNhanMatSachs>

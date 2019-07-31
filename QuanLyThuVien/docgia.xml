@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DocGias>
+  <MaDocGia>DG001</MaDocGia>
+  <HoTen>HGCThanh</HoTen>
+  <NgaySinh>05/04/1998</NgaySinh>
+  <DiaChi>x</DiaChi>
+  <LoaiDocGia>X</LoaiDocGia>
+  <Email>hgcthanh@gmail.com</Email>
+  <NgayLapThe>01/01/2011</NgayLapThe>
+  <DocGia>
+    <MaDocGia>DG002</MaDocGia>
+    <HoTen>hgcthanh</HoTen>
+    <NgaySinh>01/01/2015</NgaySinh>
+    <DiaChi>quân5</DiaChi>
+    <LoaiDocGia>Độc Giả X</LoaiDocGia>
+    <Email>hgcthanh@gmail.com</Email>
+    <NgayLapThe>01/06/2019</NgayLapThe>
+  </DocGia>
+</DocGias>

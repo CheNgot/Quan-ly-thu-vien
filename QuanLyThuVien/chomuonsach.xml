@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MuonSachs>
+  <MuonSach>
+    <MaDocGia>DG002</MaDocGia>
+    <HoTen>ad</HoTen>
+    <MaSach>MS005</MaSach>
+    <TenSach>a</TenSach>
+    <TheLoai>ad</TheLoai>
+    <TacGia>dad</TacGia>
+    <LoaiDocGia>Độc Giả X</LoaiDocGia>
+    <NgayGhiNhan>01/05/2019</NgayGhiNhan>
+  </MuonSach>
+  <MuonSach>
+    <MaDocGia>DG001</MaDocGia>
+    <HoTen>HGCThanh</HoTen>
+    <MaSach>MS003</MaSach>
+    <TenSach>y hoc co truyen</TenSach>
+    <TheLoai>adwww</TheLoai>
+    <TacGia>dad</TacGia>
+    <LoaiDocGia>Độc Giả X</LoaiDocGia>
+    <NgayGhiNhan>01/05/2019</NgayGhiNhan>
+  </MuonSach>
+  <MuonSach>
+    <MaDocGia>DG003</MaDocGia>
+    <HoTen>Thành Nga</HoTen>
+    <MaSach>MS003</MaSach>
+    <TenSach>Tin Học Cơ Sở</TenSach>
+    <TheLoai>action</TheLoai>
+    <TacGia>dor</TacGia>
+    <LoaiDocGia>Độc Giả Y</LoaiDocGia>
+    <NgayGhiNhan>01/05/2019</NgayGhiNhan>
+  </MuonSach>
+</MuonSachs>

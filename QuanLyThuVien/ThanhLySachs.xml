@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ThanhLySachs>
+  <ThanhLySach>
+    <MaSachs>MS001</MaSachs>
+    <TenSachs>Nhập Môn Lập Trình</TenSachs>
+    <LyDoThanhLy>Mất</LyDoThanhLy>
+  </ThanhLySach>
+  <ThanhLySach>
+    <MaSachs>MS004</MaSachs>
+    <TenSachs>2</TenSachs>
+    <LyDoThanhLy>Hư Hỏng</LyDoThanhLy>
+  </ThanhLySach>
+</ThanhLySachs>

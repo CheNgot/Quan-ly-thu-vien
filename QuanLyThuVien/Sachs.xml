@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sachs>
+  <Sach>
+    <MaSach>MS002</MaSach>
+    <TenSach>Kỹ Thuật Lập trình</TenSach>
+    <TheLoai>B</TheLoai>
+    <TacGia>Tấn Dũng</TacGia>
+    <NamXuatBan>2011</NamXuatBan>
+    <NhaXuatBan>Kỹ Thuật</NhaXuatBan>
+    <NgayNhap>11/13/2018</NgayNhap>
+    <TriGia>30000</TriGia>
+    <NguoiTiepNhan>Tung</NguoiTiepNhan>
+  </Sach>
+  <Sach>
+    <MaSach>MS003</MaSach>
+    <TenSach>Tin Học Cơ Sở</TenSach>
+    <TheLoai>C</TheLoai>
+    <TacGia>Thanh Thảo</TacGia>
+    <NamXuatBan>2014</NamXuatBan>
+    <NhaXuatBan>Lao Động</NhaXuatBan>
+    <NgayNhap>11/13/2018</NgayNhap>
+    <TriGia>25698</TriGia>
+    <NguoiTiepNhan>Lan</NguoiTiepNhan>
+  </Sach>
+  <Sach>
+    <MaSach>MS005</MaSach>
+    <TenSach>Toán Rời Rạc</TenSach>
+    <TheLoai>B</TheLoai>
+    <TacGia>Thành Long</TacGia>
+    <NamXuatBan>2013</NamXuatBan>
+    <NhaXuatBan>Kim Đồng</NhaXuatBan>
+    <NgayNhap>8/29/2018</NgayNhap>
+    <TriGia>56231</TriGia>
+    <NguoiTiepNhan>Lan</NguoiTiepNhan>
+  </Sach>
+</Sachs>
